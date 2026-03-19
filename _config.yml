@@ -27,14 +27,25 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+ 
   uri              : # URL
   email            : "none@example.org" 
+
+  author:
+  avatar: "/assets/img/profile.jpg"          # ← upload your pic in assets/img/
+  name: "Yayun Zheng"
+  bio: "MA Candidate in General Psychology @ NYU | Research in Human-AI Interaction, Theory of Mind, Deception Detection & NLP | Building socially intelligent AI"
+  location: "New York City, NY"
+  employer: "New York University"
+  email: "yz11730@nyu.edu"
+  linkedin: "www.linkedin.com/in/yayun-zheng217"   # your LinkedIn
+  googlescholar: "https://scholar.google.com/citations?user=08vH4hIAAAAJ"
+  github: "yuliya-zzZ"
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=08vH4hIAAAAJ&hl=en&authuser=1"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"

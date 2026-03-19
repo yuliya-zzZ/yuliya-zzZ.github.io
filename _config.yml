@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Yayun Zheng"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -19,17 +19,7 @@ repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
-author:
-  # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
- 
-  uri              : # URL
-  email            : "none@example.org" 
+#               Additional customization can be done by editing /_includes/author-profile.html 
 
   author:
   avatar: "/assets/img/profile.jpg"          # ← upload your pic in assets/img/

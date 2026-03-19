@@ -1,8 +1,9 @@
 ---
+layout: single
+author_profile: true
 permalink: /
 title: "Yayun Zheng"
-author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
